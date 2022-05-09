@@ -2,6 +2,7 @@
 /test.php
 /test1.php
 /test2.php
+/admin.php
 /_index.php
 /__index.php
 /index.php~
